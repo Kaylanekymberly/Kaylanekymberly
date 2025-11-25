@@ -1,6 +1,8 @@
-Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
+🤖 [Clique aqui para ver minha apresentação animada!](https://kaylanekymberly.github.io/Kaylanekymberly/animacao.html)
+
 
  📚Estudante de JavaScript e AWS re/Start
+
 
  <div style="display: inline_block"><br>
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">  
