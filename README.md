@@ -1,6 +1,4 @@
-🤖 [Clique aqui para ver minha apresentação animada!](https://kaylanekymberly.github.io/Kaylanekymberly/animacao.html)
-
-
+Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
  📚Estudante de JavaScript e AWS re/Start
 
 
