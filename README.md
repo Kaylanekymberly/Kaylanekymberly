@@ -29,13 +29,6 @@ Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
   <a href="https://www.linkedin.com/in/kaylane-kimberly-09a6ba25b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kaylanekymberly/Kaylanekymberly/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Veiga de Almeida. Em busca de uma oportunidade.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções.
   
