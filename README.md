@@ -1,4 +1,4 @@
-Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
+## Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kimberly!
 
 📚Estudante de JavaScript e AWS re/Start
 
