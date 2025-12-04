@@ -34,7 +34,7 @@
   </a>
 </div>
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Veiga de Almeida. Em busca de uma oportunidade.
+<p align="center">Estudante de Gestão da Tecnologia da Informação na Faculdade Veiga de Almeida. Em busca de uma oportunidade.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções.
   
 
