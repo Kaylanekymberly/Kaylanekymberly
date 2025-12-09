@@ -1,6 +1,12 @@
 ## Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kimberly!
 
-📚Estudante de JavaScript e AWS re/Start
+🎓 Estudante de Gestão de TI | UVA                                      
+
+☁️ Aprendendo AWS Cloud
+
+💼 Em busca de oportunidade de estágio
+
+📍 Rio de Janeiro/RJ
 
  <div style="display: inline_block"><br>
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">  
