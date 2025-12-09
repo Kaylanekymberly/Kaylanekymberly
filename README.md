@@ -1,12 +1,28 @@
-## Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kimberly!
+# Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kimberly!
 
-🎓 Estudante de Gestão de TI | UVA                                      
 
-☁️ Aprendendo AWS Cloud
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
+
+🎓 Estudante de Gestão de TI | UVA    
+- ☁️ Estudando AWS Cloud (re/Start + Cloud Practitioner)
+- 💻 Aprendendo HTML, CSS e fundamentos de programação (CC50 Harvard)
+- 🌐 Estudando Redes de Computadores (Cisco)
+- 🔒 Certificação em Cibersegurança (FIAP)
 💼 Em busca de oportunidade de estágio
+📍 Rio de Janeiro/RJ | 🎯 Em busca de oportunidade de estágio em TI
 
-📍 Rio de Janeiro/RJ
+## 🎓 Sobre mim
+**Estudante de Gestão da Tecnologia da Informação na Faculdade Veiga de Almeida. Em busca de uma oportunidade.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções.**
+
+## 📂 Principais Projetos
+- 📚 [AWS Learning Journey](https://github.com/Kaylanekymberly/aws-learning-journey) - Documentação dos meus estudos em AWS
+- 💼 [Portfólio](https://github.com/Kaylanekymberly/portfolio-kaylane) - Meu portfólio profissional
 
  <div style="display: inline_block"><br>
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">  
@@ -15,6 +31,8 @@
   <img align="center" alt="Kay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
+
+
 
 <p>My design softwares:</p>
 
@@ -34,15 +52,6 @@
   <a href="https://www.linkedin.com/in/kaylane-kimberly-09a6ba25b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
-
-<p align="center">Estudante de Gestão da Tecnologia da Informação na Faculdade Veiga de Almeida. Em busca de uma oportunidade.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções.
-  
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
