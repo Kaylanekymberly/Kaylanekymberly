@@ -37,9 +37,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
-
-
-<p>My design softwares:</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00CED1&random=false&width=524&lines=%E2%8A%B9+My+design+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+</a>
 
 
 <a href="https://github.com/Kaylanekymberly"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>
