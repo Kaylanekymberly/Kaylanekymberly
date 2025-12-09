@@ -7,7 +7,6 @@
   </a>
 </div>
 
-
 🎓 Estudante de Gestão de TI | UVA    
 - ☁️ Estudando AWS Cloud (re/Start + Cloud Practitioner)
 - 💻 Aprendendo HTML, CSS e fundamentos de programação (CC50 Harvard)
@@ -43,15 +42,15 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <a href="https://github.com/Kaylanekymberly"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></a>
 
 
-<h3 align="left">Connect with me!</h3>
-<div> 
-  <a href="https://youtu.be/cmxpxs4nqdk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/kay_kymberly?igsh=OG8ydjRoMmhtODJ0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:kaylanekymberly1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kaylane-kimberly-09a6ba25b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&random=false&width=524&lines=%E2%8A%B9+Connect+with+me!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+</a>
 
+ <a href="https://youtu.be/cmxpxs4nqdk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/kay_kymberly?igsh=OG8ydjRoMmhtODJ0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="mailto:kaylanekymberly1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kaylane-kimberly-09a6ba25b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
