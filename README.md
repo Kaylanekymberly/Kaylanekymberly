@@ -7,13 +7,19 @@
   </a>
 </div>
 
-🎓 Estudante de Gestão de TI | UVA    
-- ☁️ Estudando AWS Cloud (re/Start + Cloud Practitioner)
-- 💻 Aprendendo HTML, CSS e fundamentos de programação (CC50 Harvard)
-- 🌐 Estudando Redes de Computadores (Cisco)
-- 🔒 Certificação em Cibersegurança (FIAP)
-💼 Em busca de oportunidade de estágio
-📍 Rio de Janeiro/RJ | 🎯 Em busca de oportunidade de estágio em TI
+🎓 **Estudante de Gestão de TI | UVA**
+### 📚 Conhecimentos e Estudos Atuais
+* ☁️ Estudando **AWS Cloud** (re/Start + Cloud Practitioner)
+* 💻 Aprendendo **HTML**, **CSS** e fundamentos de programação (**CC50 Harvard**)
+* 🌐 Estudando **Redes de Computadores** (Cisco)
+* 🔒 Certificação em **Cibersegurança** (FIAP)
+
+---
+
+### 💼 Objetivo e Localização
+
+* 💼 Em busca de **oportunidade de estágio**
+* 📍 **Rio de Janeiro/RJ**
 
 ## 🎓 Sobre mim
 **Estudante de Gestão da Tecnologia da Informação na Faculdade Veiga de Almeida. Em busca de uma oportunidade.
