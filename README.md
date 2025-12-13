@@ -7,13 +7,14 @@
   </a>
 </div>
 
-🎓 **Estudante de Gestão de TI | UVA**
+🌐 [Acesse a landing page oficial do ShieldNet](https://shieldnetkay.my.canva.site/)
+
 ### 📚 Conhecimentos e Estudos Atuais
 * ☁️ Estudando **AWS Cloud** (re/Start + Cloud Practitioner)
 * 💻 Aprendendo **HTML**, **CSS** e fundamentos de programação (**CC50 Harvard**)
 * 🌐 Estudando **Redes de Computadores** (Cisco)
 * 🔒 Certificação em **Cibersegurança** (FIAP)
-
+🎓**Estudante de Gestão de TI | UVA**
 ---
 
 ### 💼 Objetivo e Localização
