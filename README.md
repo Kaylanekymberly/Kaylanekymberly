@@ -8,27 +8,27 @@
 
 🌐 [Acesse a landing page oficial do ShieldNet](https://shieldnetkay.my.canva.site/)
 
-### 📚 Conhecimentos e Estudos Atuais
-* ☁️ Estudando **AWS Cloud** (re/Start + Cloud Practitioner)
-* 💻 Aprendendo **HTML**, **CSS** e fundamentos de programação (**CC50 Harvard**)
-* 🌐 Estudando **Redes de Computadores** (Cisco)
-* 🔒 Certificação em **Cibersegurança** (FIAP)
+###  Conhecimentos e Estudos Atuais
+*  Estudando **AWS Cloud** (re/Start + Cloud Practitioner)
+*  Aprendendo **HTML**, **CSS** e fundamentos de programação (**CC50 Harvard**)
+*  Estudando **Redes de Computadores** (Cisco)
+*  Certificação em **Cibersegurança** (FIAP)
   
-  🎓**Estudante de Gestão de TI | UVA**
+  **Estudante de Gestão de TI | UVA**
 
 
-### 💼 Objetivo e Localização
+###  Objetivo e Localização
 
-* 💼 Em busca de **oportunidade de estágio**
-* 📍 **Rio de Janeiro/RJ**
+*  Em busca de **oportunidade de estágio**
+*  **Rio de Janeiro/RJ**
 
-## 🎓 Sobre mim
+##  Sobre mim
 **Estudante de Gestão da Tecnologia da Informação na Faculdade Veiga de Almeida. Em busca de uma oportunidade.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções.**
 
-## 📂 Principais Projetos
-- 📚 [AWS Learning Journey](https://github.com/Kaylanekymberly/aws-learning-journey) - Documentação dos meus estudos em AWS
-- 💼 [Portfólio](https://github.com/Kaylanekymberly/portfolio-kaylane) - Meu portfólio profissional
+##  Principais Projetos
+-  [AWS Learning Journey](https://github.com/Kaylanekymberly/aws-learning-journey) - Documentação dos meus estudos em AWS
+-  [Portfólio](https://github.com/Kaylanekymberly/portfolio-kaylane) - Meu portfólio profissional
 
  <div style="display: inline_block"><br>
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">  
