@@ -8,11 +8,19 @@
   </a>
 </div>
 
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 
 ##  Sobre mim
 **Estudante de Gestão da Tecnologia da Informação na Faculdade Veiga de Almeida. Em busca de uma oportunidade.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções.**
+
+
+
+
+
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+
 
 
 | **Categoria** | **Tecnologias** |
