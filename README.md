@@ -1,5 +1,7 @@
 # Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kimberly!
 
+
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
@@ -41,6 +43,24 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00CED1&random=false&width=524&lines=%E2%8A%B9+My+design+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
 </a>
+
+<table align="center">
+<tr>
+<td>
+
+| **Categoria** | **Tecnologias** |
+|----------------|-----------------|
+| **Linguagens / Frameworks** | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="59" height="55" alt="icon" /> |
+| **Frontend / Web** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![WordPress](https://skillicons.dev/icons?i=wordpress) |
+| **Segurança / Redes / OS** | ![Linux](https://skillicons.dev/icons?i=linux) ![Windows](https://skillicons.dev/icons?i=windows) |
+| **Banco de Dados** | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="55" alt="MySQL" /> ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) |
+| **Ferramentas / IDEs** | ![VSCode](https://skillicons.dev/icons?i=vscode)  ![Git](https://skillicons.dev/icons?i=git)  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="56" />  |
+
+</td>
+</tr>
+</table>
+
+
 
 
 <a href="https://github.com/Kaylanekymberly"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>
