@@ -78,7 +78,7 @@
   <tr>
     <td><b>BetNet</b></td>
     <td>Extensão para mitigação de impactos financeiros. Usa <b>algoritmos de detecção</b> e bloqueio funcional de interface contra estímulos de apostas.</td>
-    <td><a href="#"><b>Repositório</b></a></td>
+    <td><a href="https://kaylanekymberly.github.io/BetNet/"><b>Ver Projeto</b></a> | <a href="https://shieldnetkay.my.canva.site/shildnet"><b>Docs</b></a></td>
   </tr>
   <tr>
     <td><b>ShieldNet</b></td>
