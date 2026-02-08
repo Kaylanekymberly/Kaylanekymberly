@@ -67,7 +67,7 @@
 <table align="left">
   <tr>
     <th align="left">Projeto</th>
-    <th align="left">Habilidade Demonstrada</th>
+    <th align="left">Habilidades Demonstradas</th>
     <th align="left">Link</th>
   </tr>
   <tr>
