@@ -11,9 +11,23 @@
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 
-##  Sobre mim
-**Estudante de Gestão da Tecnologia da Informação na Faculdade Veiga de Almeida. Em busca de uma oportunidade.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções.**
+## Kaylane Kimberly </h1>
+</div>
+
+<p>
+  Estudante de <b>Gestão da Tecnologia da Informação</b> na Universidade Veiga de Almeida, com foco estratégico em <b>Infraestrutura, Cloud Computing (AWS) e Segurança</b>.  Desenvolvedora da extensão <b>ShieldNet</b> e <b>BetNet</b> focada em proteção de conteúdo web utilizando JavaScript e lógica de detecção inteligente.
+</p>
+
+<p>
+  Atualmente, dedico-me ao programa <b>AWS re/Start</b> e à certificação <b>Cloud Practitioner</b>, consolidando conhecimentos em EC2, S3, VPC e IAM. Minha trajetória une a organização administrativa e agilidade (Scrum/Kanban) com a paixão por arquitetar soluções seguras e eficientes em nuvem.
+</p>
+
+<p>
+   Em busca de uma oportunidade de <b>Estágio</b> para aplicar minhas competências em redes, suporte técnico e suporte a soluções Cloud.
+</p>
+
+<br clear="left">
+
 
 
 
@@ -44,6 +58,25 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <a href="mailto:kaylanekymberly1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kaylane-kimberly-09a6ba25b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+
+
+## <span style="color:#00FF00;"> Projetos de Destaque: </span>
+
+| Projeto | Habilidade Demonstrada | Link |
+|---|---|---|
+| **Subdomain Enumerator** | Framework avançado de enumeração de subdomínios com técnicas ativas e passivas, DoH, APIs de Recon, paralelismo, dashboard HTML e logging estruturado. | [Subdomain-Enumerator](https://github.com/MMVonnSeek/Subdomain-Enumerator) |
+| **Port Scanner** | Proficiência em **programação de rede** e **análise de protocolos** para identificação de vulnerabilidades. | [Port-Scanner](https://github.com/MMVonnSeek/Port-Scanner) |
+| **Esteganografia** | Aplicação de técnicas de **criptografia** e **ocultação de dados** (Segurança da Informação). | [Esteganografia](https://github.com/MMVonnSeek/Esteganografia) |
+| **CTF-Tools-Educacional** | Conhecimento em diversas disciplinas de CTF, como **forense** e **web exploitation**. | [CTF-Tools-Educacional](https://github.com/MMVonnSeek/CTF-Tools-Educacional) |
+| **PyKeyMonitor** | Desenvolvimento de ferramenta de **monitoramento** e **análise forense** (keylogger ético) em Python. | [PyKeyMonitor](https://github.com/MMVonnSeek/PyKeyMonitor) |
+| **Firewall-Detector** | Ferramenta de **segurança de rede** que analisa o comportamento de pacotes para detectar a presença de firewalls. | [Firewall-Detector](https://github.com/MMVonnSeek/Firewall-Detector) |
+
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+
+
+
 
 <img align="left" alt="Estudando" height="190px" src="./src/study.gif">
 <div align="left">
