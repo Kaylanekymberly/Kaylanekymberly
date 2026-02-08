@@ -52,7 +52,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 |:---|:---|
 | **Linguagens / Frameworks** | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="59" height="55" alt="React" /> |
 | **Frontend / Web** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![WordPress](https://skillicons.dev/icons?i=wordpress) |
-| **Segurança / Redes / OS** | ![Linux](https://skillicons.dev/icons?i=linux) ![Windows](https://skillicons.dev/icons?i=windows) |
+| **Segurança / Redes / OS** | ![Linux](https://skillicons.dev/icons?i=linux) ![Windows](https://skillicons.dev/icons?i=windows) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" /> |
 | **Banco de Dados** | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="55" alt="MySQL" /> ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) |
 | **Ferramentas / IDEs** | ![VSCode](https://skillicons.dev/icons?i=vscode)  ![Git](https://skillicons.dev/icons?i=git)  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="56" />  |
 
