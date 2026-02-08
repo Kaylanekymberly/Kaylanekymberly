@@ -64,17 +64,40 @@
 
 ## <span style="color:#00FF00;"> Projetos de Destaque: </span>
 
-| Projeto | Habilidade Demonstrada | Link |
-|---|---|---|
-| **Subdomain Enumerator** | Framework avançado de enumeração de subdomínios com técnicas ativas e passivas, DoH, APIs de Recon, paralelismo, dashboard HTML e logging estruturado. | [Subdomain-Enumerator](https://github.com/MMVonnSeek/Subdomain-Enumerator) |
-| **Port Scanner** | Proficiência em **programação de rede** e **análise de protocolos** para identificação de vulnerabilidades. | [Port-Scanner](https://github.com/MMVonnSeek/Port-Scanner) |
-| **Esteganografia** | Aplicação de técnicas de **criptografia** e **ocultação de dados** (Segurança da Informação). | [Esteganografia](https://github.com/MMVonnSeek/Esteganografia) |
-| **CTF-Tools-Educacional** | Conhecimento em diversas disciplinas de CTF, como **forense** e **web exploitation**. | [CTF-Tools-Educacional](https://github.com/MMVonnSeek/CTF-Tools-Educacional) |
-| **PyKeyMonitor** | Desenvolvimento de ferramenta de **monitoramento** e **análise forense** (keylogger ético) em Python. | [PyKeyMonitor](https://github.com/MMVonnSeek/PyKeyMonitor) |
-| **Firewall-Detector** | Ferramenta de **segurança de rede** que analisa o comportamento de pacotes para detectar a presença de firewalls. | [Firewall-Detector](https://github.com/MMVonnSeek/Firewall-Detector) |
+<table align="left">
+  <tr>
+    <th align="left">Projeto</th>
+    <th align="left">Habilidade Demonstrada</th>
+    <th align="left">Link</th>
+  </tr>
+  <tr>
+    <td><b>Sentinel AI Finance</b></td>
+    <td>Aplicação de <b>IA e NLP</b> para análise quantitativa de sentimentos no mercado financeiro. Desenvolvido em <b>Python</b> com dashboards interativos.</td>
+    <td><a href="#"><b>Repositório</b></a></td>
+  </tr>
+  <tr>
+    <td><b>BetNet</b></td>
+    <td>Extensão para mitigação de impactos financeiros. Usa <b>algoritmos de detecção</b> e bloqueio funcional de interface contra estímulos de apostas.</td>
+    <td><a href="#"><b>Repositório</b></a></td>
+  </tr>
+  <tr>
+    <td><b>ShieldNet</b></td>
+    <td>Extensão web para <b>bloqueio inteligente</b> de conteúdos impróprios (misóginos/redpill). Implementação de filtros em <b>JavaScript</b>.</td>
+    <td><a href="https://shieldnetkay.my.canva.site"><b>Ver Projeto</b></a></td>
+  </tr>
+  <tr>
+    <td><b>Monitoramento de TI</b></td>
+    <td>Automação para coleta de métricas de infraestrutura e visualização em tempo real através de <b>Dashboard Web Interativo</b>.</td>
+    <td><a href="#"><b>Repositório</b></a></td>
+  </tr>
+  <tr>
+    <td><b>AWS Learning Journey</b></td>
+    <td>Documentação técnica estruturada sobre arquitetura em nuvem (EC2, S3, IAM) para auxiliar iniciantes no ecossistema <b>AWS</b>.</td>
+    <td><a href="#"><b>Repositório</b></a></td>
+  </tr>
+</table>
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
-
 
 
 
