@@ -8,34 +8,12 @@
   </a>
 </div>
 
-🌐 [Acesse a landing page oficial do ShieldNet](https://shieldnetkay.my.canva.site/)
 
-###  Conhecimentos e Estudos Atuais
-*  Estudando **AWS Cloud** (re/Start + Cloud Practitioner)
-*  Aprendendo **HTML**, **CSS** e fundamentos de programação (**CC50 Harvard**)
-*  Estudando **Redes de Computadores** (Cisco)
-*  Certificação em **Cibersegurança** (FIAP)
-  
-  **Estudante de Gestão de TI | UVA**
-
-
-###  Objetivo e Localização
-
-*  Em busca de **oportunidade de estágio**
-*  **Rio de Janeiro/RJ**
 
 ##  Sobre mim
 **Estudante de Gestão da Tecnologia da Informação na Faculdade Veiga de Almeida. Em busca de uma oportunidade.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções.**
 
-##  Principais Projetos
--  [AWS Learning Journey](https://github.com/Kaylanekymberly/aws-learning-journey) - Documentação dos meus estudos em AWS
--  [Portfólio](https://github.com/Kaylanekymberly/portfolio-kaylane) - Meu portfólio profissiona
-
-
-<table align="left">
-<tr>
-<td>
 
 | **Categoria** | **Tecnologias** |
 |:---|:---|
@@ -59,11 +37,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <a href="https://www.linkedin.com/in/kaylane-kimberly-09a6ba25b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-
-<div align="center">
+<img align="left" alt="Estudando" height="190px" src="./src/study.gif">
+<div align="left">
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaylanekymberly/Kaylanekymberly/output/github-contribution-grid-snake-dark.svg">
@@ -71,3 +46,4 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Kaylanekymberly/Kaylanekymberly/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+<br clear="left">
